@@ -74,8 +74,6 @@ Each skill is a self-contained package with a machine-readable contract, a `doct
 
 ### Apps & utilities
 - **[fresnel](https://github.com/kajisho5/fresnel)** — Liquid Glass icon composer for layered iOS / macOS / watchOS app icons.
-- **[iOS_atena](https://github.com/kajisho5/iOS_atena)** — Ad-free iPhone/iPad app that prints Japanese addresses on postcards and envelopes; all data stays on-device.
-- **[iOS_QR_reader](https://github.com/kajisho5/iOS_QR_reader)** — Ad-free QR/barcode reader and creator for iOS/iPadOS, entirely on-device.
 - **[zippeek](https://github.com/kajisho5/zippeek)** — Mac app to compress, extract, and peek inside archives without extracting them.
 
 ---
