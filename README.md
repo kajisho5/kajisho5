@@ -9,7 +9,7 @@ I build agent skills and production software: tools that let AI coding agents (C
 
 ## Flagship
 
-### [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) — ★5,200+ · 430+ forks
+### [ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) — ★9,100+ · 800+ forks
 A local video editor for coding agents: **42 typed FFmpeg tools** with a machine-readable contract and a contract-derived MCP server. The workflow is fixed — **probe → edit → check → verify** — so the agent never guesses frame rates, codecs or container limits. Now at **v4**.
 
 - Cut, join, silence removal, aspect fitting, captions & word-timed karaoke, overlays, motion graphics
